@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp11.Sotrudnic_okno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp11"
+        mc:Ignorable="d"
+        Title="Sotrudnic_okno" Height="450" Width="800">
+    <Grid>
+        <Button Content="список клиентов" HorizontalAlignment="Left" Margin="94,302,0,0" VerticalAlignment="Top" Height="49" Width="107"/>
+        <Button Content="работа сотрудников" HorizontalAlignment="Left" Margin="234,302,0,0" VerticalAlignment="Top" Height="49" Width="128"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="400,312,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
